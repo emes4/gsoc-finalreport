@@ -33,3 +33,13 @@ List of tickets I worked on:
 - [x] [Gabidulin Codes](https://trac.sagemath.org/ticket/20970)
 - [ ] [Thematic Tutorials](https://trac.sagemath.org/ticket/28209)
 - [ ] McEliece Cryptosystem
+
+Blog posts:
+----------
+During the whole project, I wrote about my work on Medium. Here is a list of links to my blogposts:
+
+- [Project Background](https://medium.com/@em.slukova/gsoc-rank-metric-mceliece-cryptosystem-e28cd3701ba5)
+- [Community Bonding](https://medium.com/@em.slukova/community-bonding-and-first-week-57a3d6fb19ad)
+- [First Coding Period](https://medium.com/@em.slukova/gsoc-week-two-and-three-93364102338c)
+- [Secoding Coding Period](https://medium.com/@em.slukova/gsoc-second-coding-period-eb3ebb179000)
+- Final Blogpost
