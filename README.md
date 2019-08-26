@@ -2,6 +2,17 @@
 
 Final report for my project on Rank Metric McEliece Cryptosystem for SageMath during Google Summer of Code 2019.
 
+Background:
+----------
+
+Coding theory is a field of study focused on the transmission of information across possibly noisy channels, such that the noise added to the information does not change its meaning. One of the core objects in coding theory are codes, which usually come with error-correcting properties. In simple terms, a code is a subset of a larger space endowed with a metric. There are numerous types of codes (linear, non-linear), over various metrics (Hamming, rank). However, the most usual codes are linear codes over the Hamming metric.
+
+Among open-source implementations of coding theory functionality, the two main representatives are [SageMath](http://doc.sagemath.org/html/en/reference/coding/index.html) and [GAP (Guava Package)](https://www.gap-system.org/Packages/guava.html). Prior to my project, the coding theory module in SageMath supported only linear codes over the Hamming metric. With my addition to the structure of the objects in the coding module, it now supports many different types of codes and also makes it easier to implement new types of codes.
+
+Read more on the [coding theory module of SageMath](http://doc.sagemath.org/html/en/thematic_tutorials/coding_theory.html).
+
+For more details on the background of my project, read my [initial blogpost](https://medium.com/@em.slukova/gsoc-rank-metric-mceliece-cryptosystem-e28cd3701ba5).
+
 Initial Plan:
 ------------
 
