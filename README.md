@@ -18,9 +18,9 @@ After a discussion with him and my mentor we decided that the best way to procee
 
 With both [Abstract Code](https://trac.sagemath.org/ticket/28073) and [Abstract Linear Code No Metric](https://trac.sagemath.org/ticket/28350) finished, I edited my work on [Rank Metric](https://trac.sagemath.org/ticket/21226) accordingly. The final step in the project was to focus on [Gabidulin Codes](https://trac.sagemath.org/ticket/20970), a class of linear codes over the rank metric. For this class, some work was already done in 2016. I finished the rest and also rewrote the code to reflect the current state of the coding module.
 
-SageMath offers 'thematic tutorials' to users, which are in-depth documentation files explaining certain topics. There are a few of these dedicated to the coding module. Since I made numerous impactful changes to the module, these tutorials were no longer current. I changed these accordingly, as per [Thematic Tutorials](https://trac.sagemath.org/ticket/28209).
+SageMath offers 'thematic tutorials' to users, which are in-depth documentation files explaining certain topics. There are a few of these dedicated to the coding module. Since I made numerous impactful changes to the module, these tutorials were no longer current. I changed these accordingly and also added some new content, as per [Thematic Tutorials](https://trac.sagemath.org/ticket/28209).
 
-Finally, I created a rough code skeleton for the `McEliece cryptosystem,` since that was all I had time for.
+Finally, I created a rough working version for the rank metric [McEliece Cryptosystem](https://trac.sagemath.org/ticket/21352).
 
 List of tickets I worked on:
 ---------------------------
@@ -29,8 +29,8 @@ List of tickets I worked on:
 - [x] [Abstract Linear Code No Metric](https://trac.sagemath.org/ticket/28350)
 - [x] [Linear Rank Metric Codes](https://trac.sagemath.org/ticket/21226)
 - [x] [Gabidulin Codes](https://trac.sagemath.org/ticket/20970)
-- [ ] [Thematic Tutorials](https://trac.sagemath.org/ticket/28209)
-- [ ] McEliece Cryptosystem
+- [x] [Thematic Tutorials](https://trac.sagemath.org/ticket/28209)
+- [x] [McEliece Cryptosystem](https://trac.sagemath.org/ticket/21352)
 
 Blog posts:
 ----------
@@ -40,4 +40,4 @@ During the whole project, I wrote about my work on Medium. Here is a list of lin
 - [Community Bonding](https://medium.com/@em.slukova/community-bonding-and-first-week-57a3d6fb19ad)
 - [First Coding Period](https://medium.com/@em.slukova/gsoc-week-two-and-three-93364102338c)
 - [Secoding Coding Period](https://medium.com/@em.slukova/gsoc-second-coding-period-eb3ebb179000)
-- Final Blogpost
+- [Final Blogpost](https://medium.com/@em.slukova/gsoc-final-coding-period-22b671ddcae8)
